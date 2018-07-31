@@ -43,3 +43,23 @@
 [HTML5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)</br>
 [PHP Básico](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)</br>
 [MySQL Básico](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)</br>
+
+</br>
+
+## Sugestão de editores gratuitos:
+Multiplataforma(windows/linux/mac):</br>
+[Visual Studio Code](https://code.visualstudio.com/)</br>
+[Atom](https://atom.io/)</br>
+[Brackets](http://brackets.io/)</br>
+[SublimeText](https://www.sublimetext.com/)</br>
+
+Windows:</br>
+[Notepad++](https://notepad-plus-plus.org/)</br>
+
+Linux:</br>
+[KDevelop](https://www.kdevelop.org/)</br>
+[GEdit](https://wiki.gnome.org/Apps/Gedit)</br>
+[Geany](https://www.geany.org/)</br>
+
+Mac:</br>
+[TextMate](https://macromates.com/)
