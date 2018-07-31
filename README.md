@@ -43,6 +43,7 @@
 [HTML5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)</br>
 [PHP Básico](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)</br>
 [MySQL Básico](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)</br>
+[Python3 Web Com Django Básico e Intermediário](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/?deal_code=ARL1010&siteID=MhbOGzq4cI4-ZTh825cDFiSpLWEACC7W6w&LSNPUBID=MhbOGzq4cI4)</br>
 
 </br>
 
