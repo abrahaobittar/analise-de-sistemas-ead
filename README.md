@@ -32,7 +32,14 @@
 ### Compilador Online para diversas linguagens:
 [JDoodle](https://www.jdoodle.com/)
 
+</br>
 
 ## Cursos gratuitos indicados para os alunos:
 [Git e GitHub by Udemy](https://www.udemy.com/git-e-github-para-iniciantes/)</br>
-[Lógica de programação] (https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+[Lógica de programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)</br>
+[Estrutura de dados e lógica com java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)</br>
+[Java Básico](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)</br>
+[Java Intermediário](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI)</br>
+[HTML5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)</br>
+[PHP Básico](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)</br>
+[MySQL Básico](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)</br>
